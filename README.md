@@ -8,3 +8,4 @@ history - list all executed commands
 uname (-a) - show system name
 whoami - print username
 pwd - print working directory
+[program name] & - start in background
