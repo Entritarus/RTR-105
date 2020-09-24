@@ -49,7 +49,7 @@ Scripts
 default: #!/bin/bash
 
 before start:
-chmod 744 <figilename>
+chmod 744 <filename>
 7 == 111 rwx
 4 == 100 r--
 4 == 100 r--
