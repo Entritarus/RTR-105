@@ -1,0 +1,76 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo $PATH
+    4  help
+    5  man if
+    6  man rm
+    7  git clone https://github.com/sergejs-umnovs/RTR-105
+    8  ls -l
+    9  cd RTR-105/
+   10  ls -l
+   11  cat README.md 
+   12  ls -lta
+   13  hexdump readme.md
+   14  hexdump README.md 
+   15  pwd
+   16  gcc
+   17  nano first.c
+   18  nano first.c 
+   19  gcc first.c -o first
+   20  first
+   21  first.o
+   22  ls -l
+   23  first
+   24  gcc first.c -o first.out
+   25  first.out
+   26  chmod 744 first.out 
+   27  first.out
+   28  /first.out
+   29  ./first.out
+   30  ./first
+   31  rm first.out
+   32  echo lol
+   33  ./first
+   34  echo lmao
+   35* 
+   36  gcc first.c -o first.gay
+   37  ./first.gay
+   38  rm first.gay
+   39  ls -lt
+   40  rm first
+   41  gcc first.c -o first.out
+   42  cat first.out
+   43  cp first.c second.c
+   44  ls
+   45  nano second.c
+   46  gcc second.c -o second
+   47  ./second
+   48  nano second.c
+   49  rm second
+   50  nano second.c
+   51  gcc second.c
+   52  ls -l
+   53* 
+   54  ls -l
+   55  nano second.c
+   56  fg
+   57  gcc second.c -o nigga
+   58  nano second.c 
+   59  gcc second.c -o nigga
+   60  nano second.c
+   61  gcc second.c -o nigga
+   62  ./nigga
+   63  ls -lt
+   64  rm nigga
+   65  rm first.out
+   66  nano second.c
+   67  gcc second.c -o second
+   68  ./second
+   69  nano second.c
+   70  gcc second.c -o second
+   71  second
+   72  ./second
+   73  ls -lt
+   74  pwd
+   75  history
+   76  history > history_2020_09_28.txt
