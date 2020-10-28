@@ -72,7 +72,7 @@
 
 - _~_ - user's home directory, can be changed on to with calling `cd` without arguments 
 
-######**How to make a file**
+###### **How to make a file**
 
 1. `touch <filename>`
 2. `echo <something> > <filename>` - overwrite the file
@@ -96,7 +96,9 @@
 chmod 744 <filename>
 ```
 _7 == 111 rwx_
+
 _4 == 100 r--_
+
 _4 == 100 r--_
 
 ```Shell
