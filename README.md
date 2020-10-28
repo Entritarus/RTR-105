@@ -40,6 +40,7 @@
 `chmod <privilege number> <filename>` - modify file privileges
 
 `echo <something>` - print something on screen
+
 ## Tastatūras saīsinājumi
 
 |Shortcut |Description                                                                        |
@@ -60,6 +61,7 @@
 |Alt + F  |Move cursor forward one word on the current line                                   |
 |Alt + B  |Move cursor backward one word on the current line                                  |
 |Tab      |Auto-complete files and folder names                                               |
+
 ## Failu sistēmas pētīšana
 
 **Case sensitive, _abc != Abc_**
@@ -77,21 +79,20 @@ can be changed on to with calling `cd` without arguments
 2. `echo <something> > <filename>` - overwrite the file
 3. `echo <something> >> <filename>` - append the file
 
-__*__ works like in DOS
+__"*"__ works like in DOS
 
 
 
 ## Scripts
-***
-This one in the beginning of a file
+** This one in the beginning of a file **
 
 ```Shell
 #!/bin/bash
 ``` 
 
-is a must when creating a bash script file
-***
-before start:
+** is a must when creating a bash script **
+
+To grant 
 chmod 744 <filename>
 7 == 111 rwx
 4 == 100 r--
