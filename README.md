@@ -81,10 +81,16 @@ __*__ works like in DOS
 
 
 
-##Scripts
+## Scripts
+***
+This one in the beginning of a file
 
-default: #!/bin/bash
+```Shell
+#!/bin/bash
+``` 
 
+is a must when creating a bash script file
+***
 before start:
 chmod 744 <filename>
 7 == 111 rwx
