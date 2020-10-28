@@ -1,18 +1,40 @@
 # RTR-105
-Datormācība (pamatkurss) elektroniskā klade
-clear - clear screen
-man - view manual for a command
-ls (-l) - list objects in directory 
-Ctrl+Fx, x = 1..6 - switch to a different tty
-history - list all executed commands
-uname (-a) - show system name
-whoami - print username
-pwd - print working directory
-[program name] & - start in background
+## Datormācība (pamatkurss) elektroniskā klade
 
-Failu sistēmas pētīšana
+###### Galvenās komandas
 
-Case sensitive, abc != Abc
+
+`clear` - clear screen
+
+`man` - view manual for a command
+
+`ls (-l)` - list objects in directory 
+
+`history` - list all executed commands
+
+`uname (-a)` - show system name
+
+`whoami` - print username
+
+`pwd` - print working directory
+
+`ls -lt` - DOS `dir` analog
+
+`cd` - change directory
+
+`mkdir` - make directory
+
+`nano` - open terminal text editor
+
+
+<program name> & - start in background
+
+## Tastatūras saīsinājumi
+
+
+## Failu sistēmas pētīšana
+
+**Case sensitive, _abc != Abc_**
 
 Absolūtā adrese - /home/user
 
