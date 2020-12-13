@@ -1,0 +1,174 @@
+    1  sudo apt update
+    2  sudo apt install build-essential
+    3  sudo apt install cmake
+    4  cmake -G "Unix Makefiles"
+    5  make
+    6  sudo apt install Xorg-dev
+    7  sudo apt install xorg-dev
+    8  make
+    9  cmake -G "Unix Makefiles"
+   10  make
+   11  sudo make install
+   12  sudo apt-get install libx11-dev libglu1-mesa-dev freeglut3-dev libglew1.5 libglew1.5-dev libglu1-mesa libgl1-mesa-glx libgl1-mesa-dev
+   13  cd ..
+   14  gcc Source.c -o test -Wall -lGL -lGLU -lglut -lGLEW -lglfw -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl -lXinerama -lXcursor
+   15  cd glfw-3.3.2/
+   16  sudo apt-get install libx11-dev libglu1-mesa-dev freeglut3-dev libglew1.5 libglew1.5-dev libglu1-mesa libgl1-mesa-glx libgl1-mesa-dev libglfw3-dev libglfw3
+   17  cd ..
+   18  gcc Source.c -o test -Wall -lGL -lGLU -lglut -lGLEW -lglfw -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl -lXinerama -lXcursor
+   19  test
+   20  ./test
+   21  init 0
+   22  echo za warudo!
+   23  ls
+   24  rm SelSort 
+   25  rm SelectionSort.c 
+   26  rm SelectionSort
+   27  rm SelectionSort/
+   28  ls -l
+   29  dir
+   30  alias
+   31  man alias
+   32  gic clone https://github.com/sergejs-umnovs/RTR-105 RTR-105-local
+   33  git clone https://github.com/sergejs-umnovs/RTR-105 RTR-105-local
+   34  sudo apt install git
+   35  git clone https://github.com/sergejs-umnovs/RTR-105 RTR-105-local
+   36  cd RTR-105-local/
+   37  nano data_type.c
+   38  gcc data_type.c 
+   39  nano data_type.c 
+   40  gcc data_type.c 
+   41  nano data_type.c 
+   42  gcc data_type.c 
+   43  nano data_type.c 
+   44  gcc data_type.c 
+   45  ./a.out
+   46  nano data_type.c 
+   47  ./a.out
+   48  gcc data_type.c 
+   49  ./a.out
+   50  gcc data_type.c 
+   51  nano data_type.c 
+   52  gcc data_type.c 
+   53  ./a.out
+   54  nano data_type.c 
+   55  gcc data_type.c 
+   56  nano data_type.c 
+   57  gcc data_type.c 
+   58  nano data_type.c 
+   59  ./a.out
+   60  nano data_type.c 
+   61  gcc data_type.c 
+   62  nano data_type.c 
+   63  gcc data_type.c 
+   64  ./a.out
+   65  gcc data_type.c 
+   66  nano data_type.c 
+   67  gcc data_type.c 
+   68  ./a.out
+   69  nano data_type.c 
+   70  gcc data_type.c 
+   71  ls-lt
+   72  ls -lt
+   73  mkdir GCC/
+   74  mv *.c ./GCC/
+   75  ls -lt
+   76  rm a.out
+   77  cd GCC/
+   78  nano scanf.c
+   79  gcc scanf.c 
+   80  nano scanf.c
+   81  gcc scanf.c 
+   82  nano scanf.c
+   83  gcc scanf.c 
+   84  a.out
+   85  /a.out
+   86  ./a.out
+   87  gcc scanf.c 
+   88  nano scanf.c
+   89  gcc scanf.c 
+   90  ./a.out
+   91  lslt
+   92  ls -lt
+   93  rm a.out
+   94  cd ..
+   95  ./git-upload
+   96  init 0
+   97  cd Desktop
+   98  mkdir GCC
+   99  cd GCC
+  100  nano speedTest.c
+  101  gcc speedTest.c -o SpeedTest -O3
+  102  nano speedTest.c
+  103  gcc speedTest.c -o SpeedTest -O3
+  104  ./SpeedTest 
+  105  nano speedTest.c
+  106  gcc speedTest.c -o SpeedTest -O3
+  107  ./SpeedTest 
+  108  gcc speedTest.c -o SpeedTest -O3
+  109  nano speedTest.c
+  110  gcc speedTest.c -o SpeedTest -O3
+  111  ./SpeedTest 
+  112  gcc speedTest.c -o SpeedTest
+  113  ./SpeedTest 
+  114  gcc speedTest.c -o SpeedTest -O1
+  115  ./SpeedTest 
+  116  gcc speedTest.c -o SpeedTest -O2
+  117  ./SpeedTest 
+  118  gcc speedTest.c -o SpeedTest -Ofast
+  119  ./SpeedTest 
+  120  nano speedTest.c 
+  121  gcc speedTest.c -o SpeedTest
+  122  nano speedTest.c 
+  123  gcc speedTest.c -o SpeedTest
+  124  ./SpeedTest 
+  125  nano speedTest.c 
+  126  gcc speedTest.c -o SpeedTest
+  127  sudo apt-get gnuplot
+  128  gnuplot
+  129  sudo apt install gnuplot-x11
+  130  sudo apt install gnuplot-nox
+  131  sudo apt-get install gnuplot
+  132  sudo apt-update
+  133  sudo apt update
+  134  sudo apt install gnuplot
+  135  sudo apt-get updat
+  136  sudo apt-get update
+  137  sudo apt-get install gnuplot
+  138  whick gnuplot
+  139  which gnuplot
+  140  apt-get install gnuplot
+  141  sudo apt-get install gnuplot
+  142  sudo apt-install gnuplot
+  143  sudo apt install gnuplot
+  144  sudo apt-get install gnuplot
+  145  gnuplot -help
+  146  ls
+  147  git clone https://github.com/sergejs-umnovs/RTR-105 ./RTR-105
+  148  man rm
+  149  rm ./RTR-105 -r
+  150  y
+  151  ls
+  152  ls RTR-105/
+  153  cd RTR-105
+  154  ls -lt
+  155  cd ..
+  156  rm -d ./RTR-105
+  157  rm -r ./RTR-105
+  158  y
+  159  ls -lt
+  160  git clone https://github.com/sergejs-umnovs/RTR-105 ./RTR-105
+  161  cd RTR-105/
+  162  mkdir darbi
+  163  cd darbi/
+  164  mkdir 1ld_series
+  165  ls -lt
+  166  cd 1ld_series
+  167  ls -lt
+  168  man gnuplot
+  169  gnuplot
+  170  ls -lt
+  171  ./cosh(x).png
+  172  cosh(x).png
+  173  history > history.txt
+  174  history > history_20201213.txt
